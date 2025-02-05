@@ -6,7 +6,7 @@ import useLenis from "@/hooks/useLenis";
 const HomePage = () => {
   useLenis();
 
-  return <>Homepage</>;
+  return <h1 className="text-red-600">Hi I am Sin</h1>;
 };
 
 export default HomePage;
